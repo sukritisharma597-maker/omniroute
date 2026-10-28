@@ -1,0 +1,16 @@
+{
+  "name": "omniroute-catalog",
+  "owner": {
+    "name": "Custom"
+  },
+  "plugins": [
+    {
+      "name": "omniroute",
+      "description": "AI Gateway and proxy tool router",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ChrisCompton/omniroute.git"
+      }
+    }
+  ]
+}
